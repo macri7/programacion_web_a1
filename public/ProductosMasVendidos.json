@@ -1,0 +1,122 @@
+[
+    {
+        "id": 10,
+        "descripcion": "Antihistamínico - 25mg, 10 unidades.",
+        "precio": "15.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/007068X.jpg"
+    },
+    {
+        "id": 11,
+        "descripcion": "Gel Cicatricure Crema para quemaduras - 50g.",
+        "precio": "12.50",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/038434L.jpg"
+    },
+    {
+        "id": 15,
+        "descripcion": "Gel Hidratante Facial Hydro Boost Neutrogena - Pote 50 G.",
+        "precio": "20.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/011592L.jpg"
+    },
+    {
+        "id": 17,
+        "descripcion": "Shampoo Control Caspa Head & Shoulders Limpieza Renovadora - Frasco 850 ML.",
+        "precio": "18.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/067286L.jpg"
+    },
+    {
+        "id": 19,
+        "descripcion": "Enjuague Bucal Colgate Plax Soft Mint - Frasco 500 ML.",
+        "precio": "12.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/006433L.jpg"
+    },
+    {
+        "id": 20,
+        "descripcion": "Crema Dental Vitis Encías - Tubo 100 ML.",
+        "precio": "5.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/006339L.jpg"
+    },
+    {
+        "id": 22,
+        "descripcion": "Enjuague Bucal y Pasta Dental Colgate Luminous White Carbón 500 ML y Tubo 75 ML - Pack 2 UN.",
+        "precio": "15.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/038413L.jpg"
+    },
+    {
+        "id": 23,
+        "descripcion": "Bálsamo Corporal La Roche Posay Lipikar Baume AP+M Pieles Secas.",
+        "precio": "22.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/008954L.jpg"
+    },
+    {
+        "id": 24,
+        "descripcion": "Loción Corporal Nivea Naturally Good Aloe Vera - 350ml.",
+        "precio": "18.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/034913L.jpg"
+    },
+    {
+        "id": 25,
+        "descripcion": "Desodorante en Barra Secret Coconut - 45gr.",
+        "precio": "6.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/071304L.jpg"
+    },
+    {
+        "id": 28,
+        "descripcion": "Pack 01 Shampo y 01 Acondicionador Elvive Hidra Hialurónico + Sérum Facial Revitalift L'Oreal Paris Skin Care Ácido Hialurónico.",
+        "precio": "2.50",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKCP42L.jpg"
+    },
+    {
+        "id": 30,
+        "descripcion": "Agua oxigenada - 250ml.",
+        "precio": "3.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/012563L.jpg"
+    },
+    {
+        "id": 32,
+        "descripcion": "Crema Antiarrugas Cicatricure Gold Lift Noche - Frasco 50 G.",
+        "precio": "30.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030066L.jpg"
+    },
+    {
+        "id": 33,
+        "descripcion": "Ciruelax Jalea Laxante Natural - Pote 600 G.",
+        "precio": "8.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/406713L.jpg"
+    },
+    {
+        "id": 36,
+        "descripcion": "Cortauñas - Unidad.",
+        "precio": "3.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/035964L.jpg"
+    },
+    {
+        "id": 38,
+        "descripcion": "Brillo Labial Maybelline Lip Lifter Gloss Moon.",
+        "precio": "15.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/068001L.jpg"
+    },
+    {
+        "id": 39,
+        "descripcion": "Paleta de Sombras Para Ojos The Nudes Maybelline - Unidad 1 UN.",
+        "precio": "10.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/014993L.jpg"
+    },
+    {
+        "id": 40,
+        "descripcion": "Crema para Manos Antiedad Cluny Q10 + Vitamina E - Tubo 100 ML.",
+        "precio": "6.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/034452L.jpg"
+    },
+    {
+        "id": 43,
+        "descripcion": "Gomitas More Sleep Melatonina.",
+        "precio": "35.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/034422L.jpg"
+    },
+    {
+        "id": 45,
+        "descripcion": "Pañales Huggies XXG Bigpack Natural Care - Bolsa 58 UN.",
+        "precio": "23.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/036337L.jpg"
+    }
+]

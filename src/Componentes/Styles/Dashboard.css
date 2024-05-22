@@ -1,0 +1,82 @@
+/*Componentes/Styles/Dashboard.css*/
+
+.Dashboard {
+  width: 100%; /* Ajusta este valor según tus necesidades */
+  padding: 20px; /* Ajusta este valor según tus necesidades */
+  min-height: 100vh; /* O ajusta la altura según tus necesidades */
+  overflow-y: auto;
+}
+
+.Statistics {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Cabecita {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f5f5f5;
+  color: black;
+  font-weight: bold;
+  margin: 30px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.StatItem {
+  /* Color y tamaño de texto */
+  color: #333; /* Cambia el color del texto */
+  font-size: 30px; /* Cambia el tamaño del texto */
+  
+  /* Espaciado */
+  margin: 10px; /* Añade espacio alrededor del elemento */
+  padding: 20px; /* Añade espacio dentro del elemento */
+  margin: 30px;
+  
+  /* Fondo */
+  background-color: #f5f5f5; /* Cambia el color de fondo del elemento */
+  
+  /* Borde */
+  border: 1px solid #191717; /* Añade un borde alrededor del elemento */
+  border-radius: 1px; /* Redondea las esquinas del borde */
+  
+  /* Alineación de texto */
+  text-align: center; /* Centra el texto dentro del elemento */
+  font-weight: bold;
+  
+  /* Otros */
+  width: 350px; /* Cambia el ancho del elemento */
+  height: 200px; /* Cambia la altura del elemento */
+}
+
+.ChangeDate button {
+  color: #fff; /* Color del texto del botón */
+  border: none; /* Sin borde */
+  padding: 5px 10px; /* Espaciado dentro del botón */
+  cursor: pointer; /* Cambia el cursor cuando se pasa sobre el botón */
+  border-radius: 4px; /* Redondea las esquinas del botón */
+  font-size: 16px; /* Tamaño del texto del botón */
+  margin-right: 10px; /* Espacio a la derecha del botón */
+  outline: none; /* Quita el borde azul */
+}
+
+.ChangeDate button:focus {
+  outline: none; /* Quita el borde azul cuando el botón está enfocado */
+}
+
+.ChangeDate button {
+  color: black; /* Color del texto del botón */
+  border: none; /* Sin borde */
+  padding: 5px 10px; /* Espaciado dentro del botón */
+  cursor: pointer; /* Cambia el cursor cuando se pasa sobre el botón */
+  border-radius: 4px; /* Redondea las esquinas del botón */
+  font-size: 16px; /* Tamaño del texto del botón */
+  margin-right: 10px; /* Espacio a la derecha del botón */
+  outline: none; /* Quita el borde azul */
+  background-color: transparent;
+  font-weight: bold;
+}
+
+
+  
+

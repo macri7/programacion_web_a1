@@ -1,0 +1,81 @@
+/* Footer.css */
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  /* Espacio de padding si es necesario */
+  padding-bottom: 50px; /* Altura del footer aproximada */
+}
+
+.footer {
+  background-color: #f8f8f8;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-section {
+  flex: 1;
+  margin: 10px;
+  min-width: 200px;
+}
+
+.footer-section h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.footer-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 8px;
+  color: #666;
+}
+
+.footer-section ul li a {
+  color: #666;
+  text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+  text-decoration: underline;
+}
+
+.footer-section ul li img {
+  vertical-align: middle;
+}
+
+/* Redes Sociales */
+.social-icons {
+  display: flex;
+  align-items: center;
+}
+
+.social-icons img {
+  width: 24px; /* Ajusta el tamaño aquí */
+  height: 24px; /* Ajusta el tamaño aquí */
+  margin-right: 10px;
+  transition: transform 0.2s;
+}
+
+.social-icons img:hover {
+  transform: scale(1.1);
+}

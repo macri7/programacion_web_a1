@@ -1,0 +1,84 @@
+.productos-container {
+  width: 100%;
+  padding: 20px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  flex-grow: 1;
+  
+}
+
+.Cabecita1 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f5f5f5;
+  color: black;
+  font-weight: bold;
+  margin: 30px;
+  padding: 20px;
+  height: 4.3%;
+  font-size: 20px;
+  padding-bottom: 11px;
+  width: 100%;
+  margin-bottom: -10%;
+  object-fit: contain;
+  overflow-x: hidden; /* Evita el desbordamiento horizontal */
+  overflow-y: hidden;
+  
+}
+
+.bu{
+  margin: 30px;
+  width: 100%;
+  margin-bottom: -10%;
+}
+
+.agregacion-prod {
+  /* Estilos para el contenedor del botón */
+}
+
+.agregar-btn {
+  background-color: #0f0f0f;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 14px;
+  /* Otros estilos según tus preferencias */
+}
+
+.table-responsive {
+  width: 96.1%;
+  overflow-x: auto;
+  padding-left: 2% ;
+  
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  color: black;
+  margin: 30px 0;
+  background-color: #f5f5f5;
+  margin-left: 1.7%;
+  margin-bottom: 20%;
+  margin-right: 1.7%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  padding-right: 50px;
+}
+
+th {
+  padding-left: 10px;
+  border-bottom: 5px solid #000000;
+  font-weight: bold;
+}
+
+.pagination {
+  padding: 15px;
+  padding-right: 30px;
+  text-align: right;
+}

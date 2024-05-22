@@ -1,0 +1,388 @@
+[
+    {
+        "id": 1,
+        "description": "Aspirina - 500mg, 100 tabletas.",
+        "price": "8.50",
+        "link": "/detalle-producto/1",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/024859X.jpg"
+    },
+    {
+        "id": 2,
+        "description": "Ibuprofeno - 200mg, 50 tabletas.",
+        "price": "12.00",
+        "link": "/detalle-producto/2",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/230409X.jpg"
+    },
+    {
+        "id": 3,
+        "description": "Paracetamol - 500mg, 100 tabletas.",
+        "price": "10.00",
+        "link": "/detalle-producto/3",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030102L.jpg"
+    },
+    {
+        "id": 4,
+        "description": "Omeprazol - 20mg, 30 cápsulas.",
+        "price": "15.00",
+        "link": "/detalle-producto/4",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/008542L.jpg"
+    },
+    {
+        "id": 5,
+        "description": "Vitamina C - 1000mg, 60 tabletas.",
+        "price": "18.00",
+        "link": "/detalle-producto/5",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/seller/1696455383628L.jpg"
+    },
+    {
+        "id": 6,
+        "description": "Multivitamínico - 60 cápsulas.",
+        "price": "25.00",
+        "link": "/detalle-producto/6",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/070025L.jpg"
+    },
+    {
+        "id": 7,
+        "description": "Antigripal - 20 cápsulas.",
+        "price": "7.50",
+        "link": "/detalle-producto/7",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/036651L.jpg"
+    },
+    {
+        "id": 8,
+        "description": "Jarabe para la tos - 120ml.",
+        "price": "9.00",
+        "link": "/detalle-producto/8",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/264050X.jpg"
+    },
+    {
+        "id": 9,
+        "description": "Antibiótico Amoxicilina - 500mg, 20 cápsulas.",
+        "price": "20.00",
+        "link": "/detalle-producto/9",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/029188L.jpg"
+    },
+    {
+        "id": 10,
+        "description": "Antihistamínico - 25mg, 10 unidades.",
+        "price": "15.00",
+        "link": "/detalle-producto/10",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/007068X.jpg"
+    },
+    {
+        "id": 11,
+        "description": "Gel Cicatricure Crema para quemaduras - 50g.",
+        "price": "12.50",
+        "link": "/detalle-producto/11",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/038434L.jpg"
+    },
+    {
+        "id": 12,
+        "description": "Pack Shampoo y Acondicionador Elvive Color Vive para Cabello Teñido.",
+        "price": "14.00",
+        "link": "/detalle-producto/12",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKCB13L.jpg"
+    },
+    {
+        "id": 13,
+        "description": "Gel Higienizante de Manos Sesderma Lactyferrin Sanitizer - Frasco 190 ML.",
+        "price": "5.00",
+        "link": "/detalle-producto/13",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030103L.jpg"
+    },
+    {
+        "id": 14,
+        "description": "Alcohol en gel NEX - 100ml.",
+        "price": "10.00",
+        "link": "/detalle-producto/14",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/029687L.jpg"
+    },
+    {
+        "id": 15,
+        "description": "Gel Hidratante Facial Hydro Boost Neutrogena - Pote 50 G.",
+        "price": "20.00",
+        "link": "/detalle-producto/15",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/011592L.jpg"
+    },
+    {
+        "id": 16,
+        "description": "Fotoprotector Isdin Extrem Fusion Fluido Ultraligero SPF 50+ Piel Normal a Seca - Tubo 50 ML.",
+        "price": "25.00",
+        "link": "/detalle-producto/16",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/002952L.jpg"
+    },
+    {
+        "id": 17,
+        "description": "Shampoo Control Caspa Head & Shoulders Limpieza Renovadora - Frasco 850 ML.",
+        "price": "18.00",
+        "link": "/detalle-producto/17",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/067286L.jpg"
+    },
+    {
+        "id": 18,
+        "description": "Acondicionador Kativa Coconut - Frasco 250 ML.",
+        "price": "16.00",
+        "link": "/detalle-producto/18",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/015463L.jpg"
+    },
+    {
+        "id": 19,
+        "description": "Enjuague Bucal Colgate Plax Soft Mint - Frasco 500 ML.",
+        "price": "12.00",
+        "link": "/detalle-producto/19",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/006433L.jpg"
+    },
+    {
+        "id": 20,
+        "description": "Crema Dental Vitis Encías - Tubo 100 ML.",
+        "price": "5.00",
+        "link": "/detalle-producto/20",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/006339L.jpg"
+    },
+    {
+        "id": 21,
+        "description": "Crema Dental Sensodyne Repara & Protege - Tubo 100 G.",
+        "price": "3.50",
+        "link": "/detalle-producto/21",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/006125L.jpg"
+    },
+    {
+        "id": 22,
+        "description": "Enjuague Bucal y Pasta Dental Colgate Luminous White Carbón 500 ML y Tubo 75 ML - Pack 2 UN.",
+        "price": "15.00",
+        "link": "/detalle-producto/22",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/038413L.jpg"
+    },
+    {
+        "id": 23,
+        "description": "Bálsamo Corporal La Roche Posay Lipikar Baume AP+M Pieles Secas.",
+        "price": "22.00",
+        "link": "/detalle-producto/23",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/008954L.jpg"
+    },
+    {
+        "id": 24,
+        "description": "Loción Corporal Nivea Naturally Good Aloe Vera - 350ml.",
+        "price": "18.00",
+        "link": "/detalle-producto/24",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/034913L.jpg"
+        
+    },
+    {
+        "id": 25,
+        "description": "Desodorante en Barra Secret Coconut - 45gr.",
+        "price": "6.00",
+        "link": "/detalle-producto/25",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/071304L.jpg"
+    },
+    {
+        "id": 26,
+        "description": "Talco Para Pies Triple Acción Isana - Frasco 240 G + Frasco 60 G.",
+        "price": "5.00",
+        "link": "/detalle-producto/26",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/011187L.jpg"
+    },
+    {
+        "id": 27,
+        "description": "Venda Elástica 4'X 5 Yardas - Unidad.",
+        "price": "4.00",
+        "link": "/detalle-producto/27",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/033212L.jpg"
+    },
+    {
+        "id": 28,
+        "description": "Pack 01 Shampo y 01 Acondicionador Elvive Hidra Hialurónico + Sérum Facial Revitalift L'Oreal Paris Skin Care Ácido Hialurónico.",
+        "price": "2.50",
+        "link": "/detalle-producto/28",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKCP42L.jpg"
+    },
+    {
+        "id": 29,
+        "description": "Alcohol 96.",
+        "price": "7.00",
+        "link": "/detalle-producto/29",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/seller/1689624204405L.png"
+    },
+    {
+        "id": 30,
+        "description": "Agua oxigenada - 250ml.",
+        "price": "3.00",
+        "link": "/detalle-producto/30",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/012563L.jpg"
+    },
+    {
+        "id": 31,
+        "description": "ISO-XP Whey Protein Isolate Chocolate.",
+        "price": "20.00",
+        "link": "/detalle-producto/31",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/070069L.jpg"
+    },
+    {
+        "id": 32,
+        "description": "Crema Antiarrugas Cicatricure Gold Lift Noche - Frasco 50 G.",
+        "price": "30.00",
+        "link": "/detalle-producto/32",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030066L.jpg"
+    },
+    {
+        "id": 33,
+        "description": "Ciruelax Jalea Laxante Natural - Pote 600 G.",
+        "price": "8.00",
+        "link": "/detalle-producto/33",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/406713L.jpg"
+    },
+    {
+        "id": 34,
+        "description": "Electroral Pediátrico Suero Oral Sabor Fresa - Frasco 1000 ML.",
+        "price": "10.00",
+        "link": "/detalle-producto/34",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/315155L.jpg"
+    },
+    {
+        "id": 35,
+        "description": "Gel de Afeitar Nivea Men Sensitive.",
+        "price": "12.00",
+        "link": "/detalle-producto/35",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/922871L.jpg"
+    },
+    {
+        "id": 36,
+        "description": "Cortauñas - Unidad.",
+        "price": "3.00",
+        "link": "/detalle-producto/36",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/035964L.jpg"
+    },
+    {
+        "id": 37,
+        "description": "Panadol 100mg/ml Solución oral gotas.",
+        "price": "8.00",
+        "link": "/detalle-producto/37",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/108220L.jpg"
+    },
+    {
+        "id": 38,
+        "description": "Brillo Labial Maybelline Lip Lifter Gloss Moon.",
+        "price": "15.00",
+        "link": "/detalle-producto/38",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/068001L.jpg"
+    },
+    {
+        "id": 39,
+        "description": "Paleta de Sombras Para Ojos The Nudes Maybelline - Unidad 1 UN.",
+        "price": "10.00",
+        "link": "/detalle-producto/39",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/014993L.jpg"
+    },
+    {
+        "id": 40,
+        "descripcion": "Crema para Manos Antiedad Cluny Q10 + Vitamina E - Tubo 100 ML.",
+        "precio": "6.00",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/034452L.jpg"
+    },
+    {
+        "id": 41,
+        "description": "Quita Esmalte Limón Portugal - Frasco 175 ML.",
+        "price": "4.00",
+        "link": "/detalle-producto/41",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/912565L.jpg"
+    },
+    {
+        "id": 42,
+        "description": "Aceite de Coco Orgánico Peruvian Health - Pote 250 ML",
+        "price": "7.00",
+        "link": "/detalle-producto/42",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/012301L.jpg"
+    },
+    {
+        "id": 43,
+        "description": "Gomitas More Sleep Melatonina.",
+        "price": "35.00",
+        "link": "/detalle-producto/43",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/034422L.jpg"
+    },
+    {
+        "id": 44,
+        "description": "Glucosamina+Condroitina Tableta efervescente.",
+        "price": "8.00",
+        "link": "/detalle-producto/44",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/066918L.jpg"
+    },
+    {
+        "id": 45,
+        "description": "Pañales Huggies XXG Bigpack Natural Care - Bolsa 58 UN.",
+        "price":"23.00",
+        "link": "/detalle-producto/45",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/036337L.jpg"
+    },
+    {
+        "id": 46,
+        "description": "Panadol Forte Tableta.",
+        "price": "9.00",
+        "link": "/detalle-producto/46",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/029509L.jpg"
+    },
+    {
+        "id": 47,
+        "description": "Pack Fructis Shampoo + Acondicionador + Mascarilla Sandía.",
+        "price": "7.00",
+        "link": "/detalle-producto/47",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKCP170L.jpg"
+    },
+    {
+        "id": 48,
+        "description": "Sérum Anti-imperfecciones La Roche Posay Effaclar Duo+.",
+        "price": "12.00",
+        "link": "/detalle-producto/48",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/033341L.jpg"
+    },
+    {
+        "id": 49,
+        "description": "Sérum La Roche Posay Pure Niacinamide + Producto Promocional Mini Sérum Hyalu B5.",
+        "price": "18.00",
+        "link": "/detalle-producto/49",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKDB90L.jpg"
+    },
+    {
+        "id": 50,
+        "description": "Protector Solar La Roche Posay Anthelios UVMune 400 Oil Control Fluido Invisible FPS 50+.",
+        "price": "3.50",
+        "link": "/detalle-producto/50",
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/068513L.jpg"
+    },
+    {
+        "id": 51,
+        "description": "Pack Mal Aliento Oral-B: 02 Cepillos + Pasta Dental + Enjuague Bucal + Hilo Dental",
+        "price": "60.00",
+       
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKCP65L.jpg"
+    },
+    {
+        "id": 52,
+        "description": "Pack Eucerin Baby Shampoo + Crema Corporal + Pomada",
+        "price": "55.00",
+        
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKDB2L.jpg"
+    },
+    
+    {
+        "id": 53,
+        "description": "Pack Protector Solar Facial en Gel Crema Eucerin + Producto Promocional Mist Spray Hyaluron Eucerin",
+        "price": "25.99",
+        
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKBD114X.jpg"
+    },
+    {
+        "id": 54,
+        "description": "Pack Pañales Pampers Premium Care Talla XXG 2 Unidades",
+        "price": "19.99",
+       
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKMB07X.jpg"
+    },
+    {
+        "id": 55,
+        "description": "Pack 02 Similac 3 HMO en Polvo 2.1 KG",
+        "price": "25.99",
+      
+        "imagen": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/PACKNT66L.jpg"
+    }
+]

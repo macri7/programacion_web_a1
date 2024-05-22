@@ -1,0 +1,104 @@
+/*Componentes/Styles/AddProd.css*/
+.Agregacion {
+    width: 100%; /* Ajusta este valor según tus necesidades */
+    padding: 20px; /* Ajusta este valor según tus necesidades */
+    min-height: 100vh; /* O ajusta la altura según tus necesidades */
+    overflow-y: auto;
+  }
+
+.Cabezon {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+    color: black;
+    font-weight: bold;
+    margin:30px ;
+    padding: 20px;
+    font-size: 20px;
+    border-bottom: 1px solid #ddd; /* Línea inferior similar a la de la imagen */
+  }
+
+.Formulario {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(46, 44, 44);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    object-fit: contain;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  
+  /* Estilos para los campos de entrada */
+.Formulario input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-left: 5%;
+    
+  }
+  
+  /* Estilos para el botón */
+.Formulario button {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 91% ;
+    
+  }
+  
+.ImageLoad {
+  max-width: 100%; /* Asegura que la imagen no se agrande */
+  max-height: 30vh; /* Altura máxima (ajusta según tus necesidades) */
+  overflow: hidden; /* Evita que la imagen se desborde si es más grande */
+  background-color:gray;
+  border-color: black;
+  border-radius: 10px;
+  
+  }
+
+.ImageLoad img {
+    width: 100%; /* Asegura que la imagen ocupe todo el ancho del contenedor */
+    height: auto; /* Mantiene la proporción original de la imagen */
+    object-fit: contain; /* Ajusta la imagen según tu preferencia (contain o cover) */
+  }
+
+.ImagenContainer{
+  border-radius: 10px;
+  margin: 10%;
+  width: 30%;
+  position: relative;  
+}
+.Formulario textarea{
+  height: 150px; /* Ajusta la altura del campo de descripción */
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  
+}
+label{
+  color: white;
+  font-weight: bold;
+}
+.Formulario input,
+.Formulario textarea {
+  width: 100%; /* O ajusta según tus necesidades */
+  margin-left: 5%;
+}
+
+.peque{
+  width: 87%;
+}
+
+.Forms{
+  width: 40%;
+  margin-bottom: 10px;
+}

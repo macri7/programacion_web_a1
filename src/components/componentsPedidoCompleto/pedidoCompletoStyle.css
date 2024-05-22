@@ -1,0 +1,19 @@
+#pedidoCompletoID{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pedidoCompledoID h2,#pedidoCompledoID h4{
+    text-align: center;
+}
+#pedidoCompledoID h3{
+    max-width: 1000px;
+    margin: auto;
+}
+#itemDisplay{
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+} 
+#item{
+    max-width: 200px;
+    margin-left: 30px;
+}

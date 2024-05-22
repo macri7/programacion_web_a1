@@ -1,0 +1,54 @@
+/* TopBar.css */
+
+.top-bar {
+  background-color: #ffe6e6;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Align children with space between */
+}
+
+.logo {
+  display: flex; /* Align logo and text in a row */
+  align-items: center;
+}
+
+.logo h1 {
+  font-size: 36px;
+  color: #333;
+  margin: 0;
+}
+
+.logo a {
+  text-decoration: none;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar input {
+  margin-right: 10px; /* Space between input and button */
+}
+
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  font-size: 14px;
+  color: #333;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+.infoLogin {
+  margin-right: 20px; /* Add space between Login link and user info */
+}

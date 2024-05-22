@@ -1,0 +1,66 @@
+.signup{
+    background-color: #cfcccc;
+    margin-top: 0px;
+}
+
+.mainSignup {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.signup h1 {
+    text-align: center; 
+    margin-top: auto; 
+    font-size: 15px;
+    padding-top: 40px;
+}
+
+.errorMessage {                           
+    color: black;
+    font-weight: bold; 
+    margin-top: 80px;
+}
+
+.mainSignup input {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2.5px solid #999;
+}
+
+
+.mainSignup button {
+    width: 100%;
+    margin: 10px auto; 
+    padding: 15px;
+    background-color: black; 
+    color: white; 
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 60px; 
+}
+
+#olvide-contraseña a,
+#no-tengo-cuenta a {
+    color: black; /* Color del texto siempre en negro */
+    font-weight: bold; /* Texto en negrita */
+    text-decoration: underline; /* Elimina el subrayado predeterminado */
+}
+
+#olvide-contraseña a:hover,
+#no-tengo-cuenta a:hover {
+    text-decoration: underline; /* Subrayado al pasar el mouse */
+}
+
+#no-tengo-cuenta {
+    padding-bottom: 50px; /* Margen top de 20px para el contenedor de "No tengo cuenta" */
+}
+
+#olvide-contraseña{
+    margin-top: -30px;
+}

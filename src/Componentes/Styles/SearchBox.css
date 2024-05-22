@@ -1,0 +1,21 @@
+/* src/Componentes/Styles/SearchBox.css */
+
+.search-box {
+    /* Estilos para el contenedor del campo de búsqueda */
+    width: calc(100% - 80px);
+    padding: 10px;
+    border: 1px solid #dddbdb;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.search-box input {
+    /* Estilos para el campo de entrada (input) */
+    width: 100%;
+    font-size: 16px;
+    padding: 5px;
+    border: none;
+    outline: none;
+    margin-right: 10px;
+    /* Otros estilos según tus preferencias */
+}

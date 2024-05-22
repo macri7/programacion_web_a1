@@ -1,0 +1,89 @@
+.checkout{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1100px;
+    margin: auto;
+    color: black; 
+}
+#inputDatos{
+    display: flex;
+}
+#pago,#resumenOrden{
+    margin-left: 40px;
+    background-color: #ffe6e6;
+    height: 300px;
+    width: 530px;
+    border-radius: 6px;
+}   
+#pago input[type="text"],input[type="month"]{
+    height: 30px;
+    width: 490px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 4px; 
+    border-width: 1px;
+}
+#pago #datosTarjeta{
+    display: flex;
+}
+#pago #datosTarjeta input[type="text"]  {
+    height: 30px;
+    width: 236px;
+}
+#pago h4{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#pago #creditCardPayment,#qrPayment{
+    margin-left: 10px;
+}
+#pago #creditCardPayment{
+    margin-bottom: 10px     ;
+}
+#pago #qrPayment{
+    margin-bottom: 20px;
+}
+#direccionEnvio,#itemsPedido{
+    background-color: #ffe6e6;
+    height: 300px;
+    width: 530px;
+    border-radius: 6px;
+}
+#direccionEnvio h4{
+    margin-left: 10px;
+}
+#direccionEnvio input{
+    height: 30px;
+    width: 490px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 4px;
+    border-width: 1px;
+}
+#tipoPedido{
+    background-color: #ffe6e6;
+    height: 40px;
+    padding-top: 20px;  
+    padding-left: 40px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+.moverIzquierda{
+    margin-left: 100px;
+}
+#itemsPedido h4,#resumenOrden h4{
+    padding-left: 10px;
+}
+#itemsPedido div{
+    padding-left: 20px;
+}
+#resumenOrden button{
+    margin-left: 300px;
+    background-color: white;
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+}
+#resumenOrden button:hover{
+    border-color: #ff6666; 
+}
+

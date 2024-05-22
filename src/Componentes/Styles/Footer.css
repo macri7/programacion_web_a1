@@ -1,0 +1,63 @@
+/*Componentes/Styles/Footer.css*/
+footer{
+    background-color: #646464;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    font-size: 70%;
+    padding-top: 2%;
+    
+  }
+
+.logos{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    margin-right: 5px;
+  }
+
+li{
+    list-style-type: none; 
+  }
+
+.quintofooter{
+    display: flex;
+    margin-left: auto;
+    margin-right: 10%;
+  }
+  
+.quintofooter li{
+    margin-left: 20px;
+    margin-right: 10px;
+    padding-left: 20px;
+    
+    
+  }
+  
+.primerfooter li{
+    margin-left: 20px;
+    color: white;
+}
+
+.segundofooter li{
+    margin-left: 100px;
+    color: white;
+}
+
+.tercerofooter li{
+    margin-left: 100px;
+    color: white;
+}
+
+.cuartofooter li {
+    margin-left: 100px;
+    color: white;
+}
+
+ul li{
+    margin-right: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
